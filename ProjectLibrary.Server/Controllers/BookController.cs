@@ -66,7 +66,7 @@ namespace LibraryManagement.Controllers
 
             book.Title = updatedBook.Title;
             book.Author = updatedBook.Author;
-            book.BookId = updatedBook.BookId;
+           // book.BookId = updatedBook.BookId;
             book.Genre = updatedBook.Genre;
             book.TotalCopies = updatedBook.TotalCopies;
 
